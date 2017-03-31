@@ -7,7 +7,7 @@ function Player() {
 Player.prototype.play = function(song) {
   this.baz = $('body');
 
-  this.pause();
+  this.pause(this.baz);
 
   this.currentlyPlayingSong = song;
   this.isPlaying = true;
