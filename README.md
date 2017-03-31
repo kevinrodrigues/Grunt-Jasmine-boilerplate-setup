@@ -11,4 +11,4 @@ or
 
 Example spec output:
 
-![alt tag](/img/src/img/spec-output.png)
+![alt tag](/img/spec-output.png)
