@@ -8,3 +8,7 @@
 or
 3. grunt watch = watches all .js extentions for changes, runs jshint and jasmine specs.
 ```
+
+Example spec output:
+
+![alt tag](/img/src/img/spec-output.png)

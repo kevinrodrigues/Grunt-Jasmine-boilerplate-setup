@@ -1,6 +1,4 @@
 function Player() {
-    console.log('start');
-
     this.play();
 }
 
