@@ -11,8 +11,4 @@ or
 
 ## Example spec output:
 
-<<<<<<< HEAD
-![alt tag](img/src/img/spec-output.png)
-=======
 ![alt tag](/img/spec-output.png)
->>>>>>> 0dde441d8927bb3334238e65c1a95636ca92c018
