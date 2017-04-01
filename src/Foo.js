@@ -5,4 +5,3 @@ function Foo(options) {
 
     this.options = options;
 }
-

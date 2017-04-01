@@ -14,7 +14,7 @@ describe('Foo', function() {
     });
 
     describe('when invoked', function() {
-        it('should invoke it\'s self with the keyword `new`', function() {
+        it('should invoke itself with the keyword `new`', function() {
             newFooInstance = Foo(options);
             expect(newFooInstance).toEqual(new Foo(options));
         });
