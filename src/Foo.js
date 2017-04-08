@@ -5,3 +5,8 @@ function Foo(options) {
 
     this.options = options;
 }
+
+
+Foo.prototype.baz = function() {
+    console.log('Crazy flying machines');
+};

@@ -22,5 +22,25 @@ describe('Foo', function() {
         it('should set `this.options` to `options`', function() {
             expect(newFooInstance.options).toBe(options);
         });
+
+        describe('`Foo.baz` prototype method', function() {
+            it('should exist', function() {
+                expect(newFooInstance.baz).toBeDefined();
+            });
+
+            describe('when invoked', function() {
+                var consoleMessage;
+
+                beforeEach(function() {
+                    consoleMessage = 'Crazy flying machines';
+                    console.log = jasmine.createSpy('log');
+                });
+
+                it('should console.log `Working!`', function() {
+                    newFooInstance.baz();
+                    expect(console.log).toHaveBeenCalledWith(consoleMessage);
+                });
+            });
+        });
     });
 });
