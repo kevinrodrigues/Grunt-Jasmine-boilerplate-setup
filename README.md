@@ -1,5 +1,7 @@
 # Grunt-Jasmine-boilerplate-setup
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kevinrodrigues/Grunt-build-with-Jasmine.svg)](https://greenkeeper.io/)
+
 ## Setup:
 
 ```
