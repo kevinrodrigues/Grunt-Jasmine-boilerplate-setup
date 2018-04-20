@@ -7,7 +7,7 @@
     "grunt-contrib-jshint": "*",
     "grunt-contrib-nodeunit": "*",
     "grunt-contrib-uglify": "*",
-    "grunt-contrib-watch": "*",
+    "grunt-contrib-watch": ">=1.0.1",
     "grunt-template-jasmine-requirejs": "^0.2.3",
     "jquery": "^3.2.1"
   },
