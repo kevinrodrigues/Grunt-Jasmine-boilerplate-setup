@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "devDependencies": {
     "grunt": "~1.0.1",
-    "grunt-contrib-jasmine": "^1.1.0",
+    "grunt-contrib-jasmine": "^2.1.0",
     "grunt-contrib-jshint": "*",
     "grunt-contrib-nodeunit": "*",
     "grunt-contrib-uglify": "*",
