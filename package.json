@@ -2,7 +2,7 @@
   "name": "my-project-name",
   "version": "0.1.0",
   "devDependencies": {
-    "grunt": "~1.0.1",
+    "grunt": "~1.1.0",
     "grunt-contrib-jasmine": "^1.1.0",
     "grunt-contrib-jshint": "*",
     "grunt-contrib-nodeunit": "*",
