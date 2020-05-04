@@ -9,7 +9,7 @@
     "grunt-contrib-uglify": "*",
     "grunt-contrib-watch": "*",
     "grunt-template-jasmine-requirejs": "^0.2.3",
-    "jquery": "^3.2.1"
+    "jquery": "^3.5.1"
   },
   "dependencies": {
     "grunt-contrib-jshint": "^1.1.0",
